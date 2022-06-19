@@ -1,5 +1,6 @@
 # Question 1
-# Write a function to print "hello_USERNAME!" USERNAME is the input of the function.
+# Write a function to print "hello_USERNAME!" 
+# USERNAME is the input of the function.
 from operator import truediv
 
 
